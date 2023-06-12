@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(3, 67, 41);
+    font-size: 20px;
+  }
+
+  .counterContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .counter{
+    padding: 15px;
+
+  }
+  .rest{
+    width: 25px;
+    margin: 5px;
+  }
+
+  .add {
+    width: 25px;
+    margin: 5px; 
+  }
